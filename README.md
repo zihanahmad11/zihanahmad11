@@ -1,5 +1,17 @@
-## Hi there 👋
+👋 Hi, I’m Zihan
 
+I’m learning Flutter as I shift into a cross-platform software developer career. I’m focused on building real apps, improving my problem-solving skills, and growing into a professional mobile developer.
+
+🔧 Skills I’m Building
+	•	Flutter & Dart
+	•	REST APIs, Firebase
+	•	Git/GitHub
+
+📫 Contact
+
+Email: zihanahmed360@gmail.com
+LinkedIn: www.linkedin.com/in/
+yusuf-ahmad-zihan
 <!--
 **zihanahmad11/zihanahmad11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
