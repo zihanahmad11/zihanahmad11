@@ -3,9 +3,13 @@
 I’m learning Flutter as I shift into a cross-platform software developer career. I’m focused on building real apps, improving my problem-solving skills, and growing into a professional mobile developer.
 
 🔧 Skills I’m Building
-•	Flutter & Dart
+•	Flutter & Dart 
+• AI Integration
+• Local LLM
+• AI Agents
 •	REST APIs, Firebase
 •	Git/GitHub
+
 
 📫 Contact
 
