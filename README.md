@@ -5,6 +5,7 @@ I’m learning Flutter as I shift into a cross-platform software developer caree
 🔧 Skills I’m Building
 •	Flutter & Dart 
 • AI Integration
+• Cloud LLM
 • Local LLM
 • AI Agents
 •	REST APIs, Firebase
