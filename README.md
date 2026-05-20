@@ -1,4 +1,4 @@
-👋 Hi, I’m Zihan
+👋🏾 Hi, I’m Zihan
 
 I’m learning Flutter as I shift into a cross-platform software developer career. I’m focused on building real apps, improving my problem-solving skills, and growing into a professional mobile developer.
 
