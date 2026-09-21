@@ -5,13 +5,13 @@ I’m learning Flutter as I shift into a cross-platform software developer caree
 ### 🔧 Skills I’m Building:
 
 - **Flutter & Dart**
-- **AI Integration**
+- **AI Integration & Automation**
 - **Cloud LLM**
 - **Local LLM**
 - **AI Agents**
 - **REST APIs, Firebase**
 - **Git/GitHub**
-- **Web Hosting and developement**
+- **Web Hosting and Developement**
 
 
 📫 Contact
