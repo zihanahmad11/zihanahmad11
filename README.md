@@ -11,7 +11,7 @@ I’m learning Flutter as I shift into a cross-platform software developer caree
 - **AI Agents**
 - **REST APIs, Firebase**
 - **Git/GitHub**
-- **Web Hosting and Developement**
+- **Web Hosting & Developement**
 
 
 📫 Contact
